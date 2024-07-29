@@ -1,0 +1,56 @@
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\npm\swiper@11\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\npm\swiper@11\swiper-element-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://kit.fontawesome.com/5b26c2cd27.js
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\5b26c2cd27.js
+Content Type: text/javascript
+
+Uri: https://saintstream.netlify.app/assets/images/coming-soon.jpg
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\assets\images\coming-soon.jpg
+Content Type: image/jpeg
+
+Uri: https://saintstream.netlify.app/assets/images/logo/Component-1.svg
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\assets\images\logo\Component-1.svg
+Content Type: image/svg+xml
+
+Uri: https://saintstream.netlify.app/js/global.js
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\js\global.js
+Content Type: application/javascript
+
+Uri: https://saintstream.netlify.app/styles/about-movie.css
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\styles\about-movie.css
+Content Type: text/css
+
+Uri: https://saintstream.netlify.app/styles/global.css
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\styles\global.css
+Content Type: text/css
+
+Uri: https://saintstream.netlify.app/styles/reset.css
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\styles\reset.css
+Content Type: text/css
+
+Uri: https://saintstream.netlify.app/styles/upcoming.css
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\styles\upcoming.css
+Content Type: text/css
+
+Uri: https://saintstream.netlify.app/views/about-movie.html
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\views\about-movie.html
+Content Type: text/html
+
+Uri: https://saintstream.netlify.app/views/about-movie.js
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\views\about-movie.js
+Content Type: application/javascript
+
+Uri: https://saintstream.netlify.app/views/upcoming
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\views\upcoming.html
+Content Type: text/html
+
+Uri: https://saintstream.netlify.app/views/upcoming.js
+File Name: C:\Downloaded Web Sites\saintstream.netlify.app\views\upcoming.js
+Content Type: application/javascript
+
